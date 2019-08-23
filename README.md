@@ -19,7 +19,7 @@ Skybox pictures come from http://www.custommapmakers.org/skyboxes.php <br>
 Houses texture pictures come from https://www.pexels.com/search/texture/ <br>
 
 Parts of the Assignment you did (or did not) do:
-All basic requirements are completed.<br>
+All requirements completed.<br>
 Did you do any bonus parts?
 Yes. Please see QUESTIONS.md
 
