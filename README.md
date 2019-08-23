@@ -1,7 +1,9 @@
 # Graphics Town - Web Application
 
-Expectations for graphics town (final project, CS559 Computer Graphics): <br>
-https://graphics.cs.wisc.edu/WP/cs559-sp2019/2019/04/30/expectations-for-graphics-town-assignments-11-and-12/
+Graphics Town functions (final project, CS559 Computer Graphics): <br>
+https://graphics.cs.wisc.edu/WP/cs559-sp2019/2019/04/30/expectations-for-graphics-town-assignments-11-and-12/ <br>
+
+![](./Pictures/town2.PNG)
 
 ## please answer these first three required questions "inline" (as in the instructions)
 
