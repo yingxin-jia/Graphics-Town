@@ -31,4 +31,3 @@ Yes. Please see QUESTIONS.md
 
 Did you add any texture or object files?
 Texture files are in /Texture folder. Object files are in /OBJ folder.<br>
-Notes to the Grader:I had an exam on Sunday 7:25pm-9:25pm, Math 431.
