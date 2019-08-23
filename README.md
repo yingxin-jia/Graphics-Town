@@ -1,5 +1,6 @@
 # README file for Graphics Town Workbook (Assignments 11-12)
 
+Expectations for graphics town: <br>
 https://graphics.cs.wisc.edu/WP/cs559-sp2019/2019/04/30/expectations-for-graphics-town-assignments-11-and-12/
 
 ## please answer these first three required questions "inline" (as in the instructions)
