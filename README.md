@@ -1,6 +1,6 @@
-# README file for Graphics Town Workbook (Assignments 11-12)
+# Graphics Town - Web Application
 
-Expectations for graphics town: <br>
+Expectations for graphics town (final project, CS559 Computer Graphics): <br>
 https://graphics.cs.wisc.edu/WP/cs559-sp2019/2019/04/30/expectations-for-graphics-town-assignments-11-and-12/
 
 ## please answer these first three required questions "inline" (as in the instructions)
@@ -17,11 +17,6 @@ Attributions: <br>
 pillar.obj, deer.obj, trees.obj, lighthouse.obj are from https://free3d.com/  <br>
 Skybox pictures come from http://www.custommapmakers.org/skyboxes.php <br>
 Houses texture pictures come from https://www.pexels.com/search/texture/ <br>
-
-Parts of the Assignment you did (or did not) do:
-All requirements completed.<br>
-Did you do any bonus parts?
-Yes. Please see QUESTIONS.md
 
 Did you add any texture or object files?
 Texture files are in /Texture folder. Object files are in /OBJ folder.<br>
