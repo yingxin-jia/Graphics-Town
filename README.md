@@ -1,7 +1,6 @@
 # README file for Graphics Town Workbook (Assignments 11-12)
 
-It is the student's responsibility to fill this in.
-See <https://graphics.cs.wisc.edu/WP/cs559-sp2019/workbooks/#README_files>
+https://graphics.cs.wisc.edu/WP/cs559-sp2019/2019/04/30/expectations-for-graphics-town-assignments-11-and-12/
 
 ## please answer these first three required questions "inline" (as in the instructions)
 
