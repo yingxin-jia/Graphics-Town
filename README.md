@@ -17,12 +17,6 @@ Attributions: <br>
 pillar.obj, deer.obj, trees.obj, lighthouse.obj are from https://free3d.com/  <br>
 Skybox pictures come from http://www.custommapmakers.org/skyboxes.php <br>
 Houses texture pictures come from https://www.pexels.com/search/texture/ <br>
-I used the house I made for Workbook 8.<br>
-I used the helicopter I made for Workbook 7.<br>
-I used the cars I made for Workbook 8.<br>
-I used the procedual texture I made for Workbook 10.<br>
-I used the fireball I made for Workbook 10.<br>
-I used the carousel, tilt-a-whirl and swing from my Workbook 8.<br>
 
 Parts of the Assignment you did (or did not) do:
 All basic requirements are completed.<br>
