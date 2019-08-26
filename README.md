@@ -7,7 +7,7 @@ https://graphics.cs.wisc.edu/WP/cs559-sp2019/2019/04/30/expectations-for-graphic
 
 
 
-## Attributions: <br>
+## Attributions
 pillar.obj, deer.obj, trees.obj, lighthouse.obj are from https://free3d.com/  <br>
 Skybox pictures come from http://www.custommapmakers.org/skyboxes.php <br>
 Houses texture pictures come from https://www.pexels.com/search/texture/ <br>
