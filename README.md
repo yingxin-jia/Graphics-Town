@@ -5,15 +5,7 @@ https://graphics.cs.wisc.edu/WP/cs559-sp2019/2019/04/30/expectations-for-graphic
 
 ![](./Pictures/town2.PNG)
 
-## please answer these first three required questions "inline" (as in the instructions)
 
-Name: Heather Jia
-
-WiscID: yjia42
-
-GitHub Login: HeatherJiaZG
-
-## please answer these next (optional) questions on a line following the questions
 
 Attributions: <br>
 pillar.obj, deer.obj, trees.obj, lighthouse.obj are from https://free3d.com/  <br>
